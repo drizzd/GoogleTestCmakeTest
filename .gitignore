@@ -1,0 +1,16 @@
+*.o
+*.obj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+*.VC.opendb
+*.VC.db
+Win32/
+/.vs/
+/Makefile
+Testing/
+CTestTestfile.cmake
+x64/
